@@ -1,22 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\vugarjs\\source\\repos\\Restoran\\",
+  "WorkspaceRootPath": "C:\\Users\\Vuqar\\Desktop\\Tasks\\RestorantV2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4F5E6C56-A53E-4A72-A1A5-BD9C41E41A58}|Restoran\\Restoran.csproj|c:\\users\\vugarjs\\source\\repos\\restoran\\restoran\\models\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F5E6C56-A53E-4A72-A1A5-BD9C41E41A58}|Restoran\\Restoran.csproj|solutionrelative:restoran\\models\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7565194D-9B52-D597-BE56-E5F620561EE5}|Restoran\\Restoran.csproj|c:\\users\\vuqar\\desktop\\tasks\\restorantv2\\restoran\\services\\ipizzaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7565194D-9B52-D597-BE56-E5F620561EE5}|Restoran\\Restoran.csproj|solutionrelative:restoran\\services\\ipizzaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F5E6C56-A53E-4A72-A1A5-BD9C41E41A58}|Restoran\\Restoran.csproj|c:\\users\\vugarjs\\source\\repos\\restoran\\restoran\\models\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F5E6C56-A53E-4A72-A1A5-BD9C41E41A58}|Restoran\\Restoran.csproj|solutionrelative:restoran\\models\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7565194D-9B52-D597-BE56-E5F620561EE5}|Restoran\\Restoran.csproj|c:\\users\\vuqar\\desktop\\tasks\\restorantv2\\restoran\\services\\pizzaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7565194D-9B52-D597-BE56-E5F620561EE5}|Restoran\\Restoran.csproj|solutionrelative:restoran\\services\\pizzaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F5E6C56-A53E-4A72-A1A5-BD9C41E41A58}|Restoran\\Restoran.csproj|c:\\users\\vugarjs\\source\\repos\\restoran\\restoran\\models\\fries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F5E6C56-A53E-4A72-A1A5-BD9C41E41A58}|Restoran\\Restoran.csproj|solutionrelative:restoran\\models\\fries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7565194D-9B52-D597-BE56-E5F620561EE5}|Restoran\\Restoran.csproj|c:\\users\\vuqar\\desktop\\tasks\\restorantv2\\restoran\\services\\foodservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7565194D-9B52-D597-BE56-E5F620561EE5}|Restoran\\Restoran.csproj|solutionrelative:restoran\\services\\foodservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F5E6C56-A53E-4A72-A1A5-BD9C41E41A58}|Restoran\\Restoran.csproj|c:\\users\\vugarjs\\source\\repos\\restoran\\restoran\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F5E6C56-A53E-4A72-A1A5-BD9C41E41A58}|Restoran\\Restoran.csproj|solutionrelative:restoran\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7565194D-9B52-D597-BE56-E5F620561EE5}|Restoran\\Restoran.csproj|c:\\users\\vuqar\\desktop\\tasks\\restorantv2\\restoran\\services\\ifoodservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7565194D-9B52-D597-BE56-E5F620561EE5}|Restoran\\Restoran.csproj|solutionrelative:restoran\\services\\ifoodservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7565194D-9B52-D597-BE56-E5F620561EE5}|Restoran\\Restoran.csproj|c:\\users\\vuqar\\desktop\\tasks\\restorantv2\\restoran\\models\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7565194D-9B52-D597-BE56-E5F620561EE5}|Restoran\\Restoran.csproj|solutionrelative:restoran\\models\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7565194D-9B52-D597-BE56-E5F620561EE5}|Restoran\\Restoran.csproj|c:\\users\\vuqar\\desktop\\tasks\\restorantv2\\restoran\\models\\fries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7565194D-9B52-D597-BE56-E5F620561EE5}|Restoran\\Restoran.csproj|solutionrelative:restoran\\models\\fries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7565194D-9B52-D597-BE56-E5F620561EE5}|Restoran\\Restoran.csproj|c:\\users\\vuqar\\desktop\\tasks\\restorantv2\\restoran\\models\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7565194D-9B52-D597-BE56-E5F620561EE5}|Restoran\\Restoran.csproj|solutionrelative:restoran\\models\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7565194D-9B52-D597-BE56-E5F620561EE5}|Restoran\\Restoran.csproj|c:\\users\\vuqar\\desktop\\tasks\\restorantv2\\restoran\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7565194D-9B52-D597-BE56-E5F620561EE5}|Restoran\\Restoran.csproj|solutionrelative:restoran\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,56 +42,112 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "IPizzaService.cs",
+              "DocumentMoniker": "C:\\Users\\Vuqar\\Desktop\\Tasks\\RestorantV2\\Restoran\\Services\\IPizzaService.cs",
+              "RelativeDocumentMoniker": "Restoran\\Services\\IPizzaService.cs",
+              "ToolTip": "C:\\Users\\Vuqar\\Desktop\\Tasks\\RestorantV2\\Restoran\\Services\\IPizzaService.cs",
+              "RelativeToolTip": "Restoran\\Services\\IPizzaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-17T17:38:24.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PizzaService.cs",
+              "DocumentMoniker": "C:\\Users\\Vuqar\\Desktop\\Tasks\\RestorantV2\\Restoran\\Services\\PizzaService.cs",
+              "RelativeDocumentMoniker": "Restoran\\Services\\PizzaService.cs",
+              "ToolTip": "C:\\Users\\Vuqar\\Desktop\\Tasks\\RestorantV2\\Restoran\\Services\\PizzaService.cs",
+              "RelativeToolTip": "Restoran\\Services\\PizzaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-17T17:39:17.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FoodService.cs",
+              "DocumentMoniker": "C:\\Users\\Vuqar\\Desktop\\Tasks\\RestorantV2\\Restoran\\Services\\FoodService.cs",
+              "RelativeDocumentMoniker": "Restoran\\Services\\FoodService.cs",
+              "ToolTip": "C:\\Users\\Vuqar\\Desktop\\Tasks\\RestorantV2\\Restoran\\Services\\FoodService.cs",
+              "RelativeToolTip": "Restoran\\Services\\FoodService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-17T17:26:24.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IFoodService.cs",
+              "DocumentMoniker": "C:\\Users\\Vuqar\\Desktop\\Tasks\\RestorantV2\\Restoran\\Services\\IFoodService.cs",
+              "RelativeDocumentMoniker": "Restoran\\Services\\IFoodService.cs",
+              "ToolTip": "C:\\Users\\Vuqar\\Desktop\\Tasks\\RestorantV2\\Restoran\\Services\\IFoodService.cs",
+              "RelativeToolTip": "Restoran\\Services\\IFoodService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-17T17:03:11.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Pizza.cs",
-              "DocumentMoniker": "C:\\Users\\vugarjs\\source\\repos\\Restoran\\Restoran\\Models\\Pizza.cs",
+              "DocumentMoniker": "C:\\Users\\Vuqar\\Desktop\\Tasks\\RestorantV2\\Restoran\\Models\\Pizza.cs",
               "RelativeDocumentMoniker": "Restoran\\Models\\Pizza.cs",
-              "ToolTip": "C:\\Users\\vugarjs\\source\\repos\\Restoran\\Restoran\\Models\\Pizza.cs",
+              "ToolTip": "C:\\Users\\Vuqar\\Desktop\\Tasks\\RestorantV2\\Restoran\\Models\\Pizza.cs",
               "RelativeToolTip": "Restoran\\Models\\Pizza.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-17T13:06:46.217Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Fries.cs",
-              "DocumentMoniker": "C:\\Users\\vugarjs\\source\\repos\\Restoran\\Restoran\\Models\\Fries.cs",
+              "DocumentMoniker": "C:\\Users\\Vuqar\\Desktop\\Tasks\\RestorantV2\\Restoran\\Models\\Fries.cs",
               "RelativeDocumentMoniker": "Restoran\\Models\\Fries.cs",
-              "ToolTip": "C:\\Users\\vugarjs\\source\\repos\\Restoran\\Restoran\\Models\\Fries.cs",
+              "ToolTip": "C:\\Users\\Vuqar\\Desktop\\Tasks\\RestorantV2\\Restoran\\Models\\Fries.cs",
               "RelativeToolTip": "Restoran\\Models\\Fries.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAgwBMAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-17T13:07:05.586Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Food.cs",
-              "DocumentMoniker": "C:\\Users\\vugarjs\\source\\repos\\Restoran\\Restoran\\Models\\Food.cs",
+              "DocumentMoniker": "C:\\Users\\Vuqar\\Desktop\\Tasks\\RestorantV2\\Restoran\\Models\\Food.cs",
               "RelativeDocumentMoniker": "Restoran\\Models\\Food.cs",
-              "ToolTip": "C:\\Users\\vugarjs\\source\\repos\\Restoran\\Restoran\\Models\\Food.cs",
+              "ToolTip": "C:\\Users\\Vuqar\\Desktop\\Tasks\\RestorantV2\\Restoran\\Models\\Food.cs",
               "RelativeToolTip": "Restoran\\Models\\Food.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-17T13:02:45.488Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\vugarjs\\source\\repos\\Restoran\\Restoran\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Vuqar\\Desktop\\Tasks\\RestorantV2\\Restoran\\Program.cs",
               "RelativeDocumentMoniker": "Restoran\\Program.cs",
-              "ToolTip": "C:\\Users\\vugarjs\\source\\repos\\Restoran\\Restoran\\Program.cs",
+              "ToolTip": "C:\\Users\\Vuqar\\Desktop\\Tasks\\RestorantV2\\Restoran\\Program.cs",
               "RelativeToolTip": "Restoran\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-17T13:01:36.651Z",
               "EditorCaption": ""

@@ -7,10 +7,15 @@ public abstract class Food
     public DateTime Created { get; set; }
     public TimeSpan PrepareTime { get; set; }
     public abstract void CalcPrice();
+    protected Food()
+    {
+        
+    }
 
     protected Food(string name)
     {
-        Name    = name;
+        Name = name;
+        Created = DateTime.Now;
     }
     public decimal Calori
     {
@@ -20,7 +25,7 @@ public abstract class Food
         }
         set
         {
-            if(value < 0)
+            if (value < 0)
             {
 
             }

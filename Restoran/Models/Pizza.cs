@@ -8,12 +8,13 @@ public class Pizza : Food
     public Pizza(string Name, decimal radius): base(Name)
     {
         Radius = radius;
+        PrepareTime = TimeSpan.FromMinutes(20);
     }
 
     public override void CalcPrice()
     {
         
-        decimal area = 3.14m * (radius * radius);
+        decimal area = 3.14m * (Radius * Radius);
         if (area > 0)
         {
             Price *= area;
@@ -22,10 +23,9 @@ public class Pizza : Food
                 Price += 1.15m;
             }
         }
-        Console.WriteLine($"Pizza price is {Price}");
     }
     public override string ToString()
     {
-        return $"{Name},{Price},{radius}";
+        return $"Name : {Name} Price : {Price*Radius} Radius : {Radius}";
     }
 }
