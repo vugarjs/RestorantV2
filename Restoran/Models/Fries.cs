@@ -15,7 +15,7 @@ public class Fries : Food
     {
         Weight /= 1000;
         decimal price = Weight;
-        if (IsSalty)
+        if (IsSalty)//duzludursa elave 0.80azn
         {
             price += 0.8m;
         }
@@ -24,8 +24,8 @@ public class Fries : Food
             price += Weight;
         }
     }
-    public override string ToString()
+    public override string ToString() // to string methodu override
     {
-        return $"Name : {Name} Weight : {Weight} Price : {Weight}";
+        return $"Name : {Name}| Weight : {Weight}| Price : {Weight}|";
     }
 }

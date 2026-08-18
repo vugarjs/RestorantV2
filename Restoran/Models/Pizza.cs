@@ -4,7 +4,7 @@ public class Pizza : Food
 {
     public decimal Radius { get; set; }
     public bool IsHot { get; set; }
-    decimal Price = 0.10m;
+    decimal Price = 0.10m; // her radiusa 0.10 qep.
     public Pizza(string Name, decimal radius): base(Name)
     {
         Radius = radius;
@@ -26,6 +26,6 @@ public class Pizza : Food
     }
     public override string ToString()
     {
-        return $"Name : {Name} Price : {Price*Radius} Radius : {Radius}";
+        return $"Name : {Name}| Price : {Price*Radius}| Radius : {Radius}";
     }
 }

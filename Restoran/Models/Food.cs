@@ -7,10 +7,6 @@ public abstract class Food
     public DateTime Created { get; set; }
     public TimeSpan PrepareTime { get; set; }
     public abstract void CalcPrice();
-    protected Food()
-    {
-        
-    }
 
     protected Food(string name)
     {
@@ -27,7 +23,7 @@ public abstract class Food
         {
             if (value < 0)
             {
-
+                return;
             }
             else
             {
